@@ -1,3 +1,4 @@
+is this on branch1?
 adding this on a branch, br-1
 adding text on master
 hi there
@@ -15,4 +16,5 @@ hi there, again - from user11
 hi there, again - from user12
 hi there, again - from user13
 hi there, again - from user14
+adding text on br-1
 hi there, again - from user15
