@@ -1,4 +1,5 @@
 adding this on a branch, br-1
+adding text on master
 hi there
 hi there, again
 hi there, again - from user2
